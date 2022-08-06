@@ -47,7 +47,7 @@ P.S. If you're passionate about creating or learning blockchain-focused products
 <ul dir="auto">
 <li><g-emoji class="g-emoji" alias="dancers" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f46f.png">💡</g-emoji> I like to explore new technologies and develop software</li>
 <li><g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">💬</g-emoji> Ask me about: JavaScript, ReactJs, C#, Asp.net Core, EntityFramework Core, Software Architecture, bitcoin, Solidity (Smart Contract), Ethereum </li>
-<li><g-emoji class="g-emoji" alias="dancers" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f46f.png">👯</g-emoji>
+<li><g-emoji class="g-emoji" alias="dancers" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f46f.png">👯</g-emoji> If you're passionate about creating or learning blockchain-focused products to help people reach their potential, contact me.
 </li>
 </ul>
 
