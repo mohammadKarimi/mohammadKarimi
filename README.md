@@ -57,12 +57,10 @@ P.S. If you're passionate about creating or learning blockchain-focused products
 </div>
 
 <p align="center">
-<a href="https://github.com/MohammadMokhtarii">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MohammadMokhtarii&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+<a href="https://github.com/mohammadKarimi">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mohammadKarimi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
  </a>
- 
-
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadmokhtari&layout=compact&show_icons=true&theme=gotham"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadKarimi&layout=compact&show_icons=true&theme=gotham"/>
 </p>
 
 
@@ -71,9 +69,9 @@ P.S. If you're passionate about creating or learning blockchain-focused products
 ##### Contact Me
 <p align="center">
 <a href="https://www.instagram.com/mha.karimi/">
-<img src="https://img.shields.io/badge/-@mha.karimi-E4405F?style=flat&logo=Instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/@mha.karimi-E4405F?style=flat&logo=Instagram&logoColor=white" />
 </a>
-<a href="mailto:mha.karimi@gmail.com"><img src="https://img.shields.io/badge/-mha.karimi@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/>
+<a href="mailto:mha.karimi@gmail.com"><img src="https://img.shields.io/badge/mha.karimi@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/>
 </a>
 </p>
 
