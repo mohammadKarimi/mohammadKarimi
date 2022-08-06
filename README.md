@@ -2,10 +2,14 @@
 
 <!-- Intro -->
 
-<h1 align="center">Hi there, I'm Mohammad Mokhtari 👋</h1>
- <p> 🌱
-  I'm Mohammad , Web Developer, with proficiency especially on the back-end, but having some experience on developing front-end . <br> I really enjoy learning languages and   frameworks like JavaScript, TypeScript,React Angular ,C# and Asp Net Core .
- </p>
+<h1 align="center">Hi there, I'm Mohammad Karimi 👋</h1>
+<p> 🌱
+I'm Mohammad, I have over 15 years of experience working in software development. Currently, I work as the Head of the technical team at Asa Co, where I lead a cross-functional team of seven, building unique products that are helping operators to help customers to the point! I'm deeply passionate about creating, coaching and coding loved and trusted products in the enterprise ecosystem. I mainly focused on designing and developing products and services for our customers by using Microsoft tech stack (i.e. C#, Asp.net Core, EntityFramwork core).
+
+If you catch me outside of work, I'm a blockchain adventurous. I also like to teach blockchain, bitcoin, and Ethereum mechanisms.
+
+P.S. If you're passionate about creating or learning blockchain-focused products to help people reach their potential, contact me.
+</p>
 
 <!-- Socials --> 
 
